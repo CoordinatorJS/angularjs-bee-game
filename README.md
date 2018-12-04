@@ -1,4 +1,4 @@
-# angularjs-bee-game
+# AngularJS Bee Game
 A simple demo game about bees.
 
 The purpose here is to hit some bees until the queen bee is dead.
